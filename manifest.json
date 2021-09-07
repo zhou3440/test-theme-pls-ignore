@@ -1,0 +1,9 @@
+{
+    "icon": "assets/460847.jpg",
+    "name": "kcho",
+    "description": "A noob theme",
+    "updater": "https:\/\/raw.githubusercontent.com\/",
+    "version": "1.0.0",
+    "author": "kcho#7241",
+    "license": "MIT"
+}
